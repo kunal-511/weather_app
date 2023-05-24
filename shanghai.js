@@ -33,13 +33,3 @@ async function fetchData() {
   }
   
   fetchData();
-
-
-
-
-
-
-
-
-  
-  hanghai
